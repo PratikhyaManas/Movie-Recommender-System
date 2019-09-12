@@ -19,3 +19,10 @@
 2. Item-based collaborative filtering will correlate both movies together based on user #1 and #2 behaviour. 
 
 3. User #3 watched “Titanic” and did not watch a “Walk to remember”, so the recommender system will recommend it for him/her. 
+
+# PROBLEM STATEMENT
+
+1. This notebook implements a movie recommender system.
+2. Recommender systems are used to suggest movies or songs to users based on their interest or usage history.
+3. For example, Netflix recommends movies to watch based on the previous movies you've watched.
+4. In this example, we will use Item-based Collaborative Filter
